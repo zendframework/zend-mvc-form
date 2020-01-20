@@ -2,7 +2,7 @@
 
 > ## Repository abandoned 2019-12-31
 >
-> This repository has moved to laminas/laminas-mvc-form.
+> This repository has moved to [laminas/laminas-mvc-form](https://github.com/laminas/laminas-mvc-form).
 
 zend-mvc-form is a Composer metapackage that provides a single package for
 installing all packages necessary to fully use [zend-form](https://zendframework.github.io/zend-form)
